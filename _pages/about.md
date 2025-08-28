@@ -9,13 +9,13 @@ redirect_from:
 
 Welcome to my academic homepage! I am Wesley Wang (王子悦), an incoming PhD student at the University of Sydney with a strong background in computer science and cybersecurity research.
 
-## Academic Background
+## Education
 
-**University of Sydney** (2024 - Present)  
-PhD in Computer Science - *Incoming*
+* 2026.08 - Now, Ph.D. student at School of Computer Science, University of Sydney, Australia. Supervisor: [Liyi Zhou](https://lzhou1110.github.io/).
 
-**Nanjing University** (2018 - 2024)  
-Master of Science & Bachelor of Science
+* 2023.09 - 2026.06, Master student at School of Software, Nanjing University, Nanjing, Jiangsu, P.R.C.
+
+* 2019.09 - 2023.06, Undergraduate student at School of Software, Nanjing University, Nanjing, Jiangsu, P.R.C.
 
 ## Research Interests
 
