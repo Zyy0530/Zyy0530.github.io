@@ -22,7 +22,7 @@ repository               : "zyy0530/Zyy0530.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wesley-photo.jpg"
+  avatar           : "wesley_photo.jpg"
   name             : "Wesley Wang"
   pronouns         : # example: "she/her"  
   bio              : "Incoming PhD @ University of Sydney | Blockchain Security | Vulnerability Detection | LLM for Security"
