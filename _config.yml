@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Wesley Wang (王子悦) - Academic Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Wesley Wang"
 description              : &description "PhD student researching blockchain security and AI-driven vulnerability detection"
