@@ -1,0 +1,19 @@
+/* Custom bullet point alignment */
+.page__content ul {
+  margin-left: 1em;
+  padding-left: 0;
+}
+
+.page__content ul li {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+/* Specific alignment for education and internship lists */
+.page__content > ul {
+  margin-left: 0.5em;
+}
+
+.page__content > ul > li {
+  margin-left: 0;
+}
