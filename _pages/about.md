@@ -24,8 +24,8 @@ I leverage large language model agents for automated vulnerability discovery and
 
 ## Education
 
-* 2026.08 - Now, Ph.D. student at School of Computer Science, University of Sydney, Australia. Supervisor: [Liyi Zhou](https://lzhou1110.github.io/).
+* Incoming Fall 2026, Ph.D. student at School of Computer Science, University of Sydney, Australia. Supervisor: [Liyi Zhou](https://lzhou1110.github.io/).
 
-* 2023.09 - 2026.06, Master student at School of Software, Nanjing University, Nanjing, Jiangsu, P.R.C.
+* 2023.09 - Now, Master student at School of Software, Nanjing University, Nanjing, Jiangsu, P.R.C.
 
 * 2019.09 - 2023.06, Undergraduate student at School of Software, Nanjing University, Nanjing, Jiangsu, P.R.C.
