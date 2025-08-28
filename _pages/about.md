@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Wesley Wang (王子悦)"
+title: "Wesley Wang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my academic homepage! I am Wesley Wang (王子悦), an incoming PhD student at the University of Sydney with a strong background in computer science and cybersecurity research.
+Welcome to my academic homepage! I am Wesley Wang (王子悦 in Chinese), an incoming PhD student at the University of Sydney with a strong background in computer science and cybersecurity research.
 
 ## Research Interests
 
