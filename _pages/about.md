@@ -11,7 +11,7 @@ Welcome to my academic homepage! I am Wesley Wang (王子悦 in Chinese), an inc
 
 ## Educations
 
-* Incoming Fall 2026, Ph.D. student at School of Computer Science, University of Sydney, Australia. Supervisor: [Liyi Zhou](https://lzhou1110.github.io/).
+* Incoming Fall 2026, Ph.D. student in Computer Science, University of Sydney, Australia. Supervisor: [Liyi Zhou](https://lzhou1110.github.io/).
 
 * 2023.09 - Now, Master student in Software Engineering, Nanjing University.
 
