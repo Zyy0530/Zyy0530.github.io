@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Wesley Wang - Academic Homepage"
+title                    : "Wesley Wang (王子悦) - Academic Homepage"
 title_separator          : "-"
 name                     : &name "Wesley Wang"
 description              : &description "PhD student researching blockchain security and AI-driven vulnerability detection"
@@ -22,11 +22,11 @@ repository               : "zyy0530/Zyy0530.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "bio-photo.jpg"
   name             : "Wesley Wang"
   pronouns         : # example: "she/her"  
   bio              : "Incoming PhD @ University of Sydney | Blockchain Security | Vulnerability Detection | LLM for Security"
-  location         : "Sydney, Australia"
+  location         : "Nanjing, Jiangsu"
   employer         : "University of Sydney"
   uri              : # URL
   email            : "ziyue0530@gmail.com" 
@@ -37,9 +37,9 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0000-6621-4712"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
