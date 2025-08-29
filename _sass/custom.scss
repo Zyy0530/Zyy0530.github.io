@@ -17,3 +17,8 @@
 .page__content > ul > li {
   margin-left: 0;
 }
+
+/* Increase avatar size */
+.author__avatar img {
+  max-width: 220px !important;
+}
