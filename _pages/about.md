@@ -21,14 +21,14 @@ Welcome to my academic homepage! I am Wesley Wang (王子悦 in Chinese), an inc
 
 My research focuses on cybersecurity:
 
-### 🔒 Blockchain & Smart Contract Security
-Investigating security vulnerabilities in blockchain systems and smart contracts.
+### LLM for Security
+Leveraging large language model agents for automated vulnerability discovery and verification.
 
-### 🐛 Vulnerability Detection & Verification  
+### Vulnerability Detection & Verification  
 Advancing automated vulnerability discovery techniques and formal verification methods.
 
-### 🤖 LLM for Security
-Leveraging large language model agents for automated vulnerability discovery and verification.
+### Blockchain & Smart Contract Security
+Investigating security vulnerabilities in blockchain systems and smart contracts.
 
 ## Internships
 
