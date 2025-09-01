@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 <div style="margin-bottom: 30px;">
-  <h3 style="margin-bottom: 8px;">
+  <h2 style="margin-bottom: 8px;">
     Agentic Discovery and Validation of Android App Vulnerabilities
-  </h3>
+  </h2>
   
   <div style="margin-bottom: 8px;">
     Ziyue Wang, Liyi Zhou
