@@ -1,6 +1,7 @@
 ---
 title: "Agentic Discovery and Validation of Android App Vulnerabilities"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-08-28-agentic-discovery
 excerpt: 'This paper is about agentic discovery and validation of Android app vulnerabilities.'
 date: 2025-08-28
