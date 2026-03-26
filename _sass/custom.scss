@@ -9,16 +9,80 @@
   padding-left: 0;
 }
 
-/* Specific alignment for education and internship lists */
-.page__content > ul {
-  margin-left: 0.5em;
-}
-
-.page__content > ul > li {
-  margin-left: 0;
-}
-
 /* Increase avatar size */
 .author__avatar img {
   max-width: 220px !important;
+}
+
+.profile-lead {
+  margin-bottom: 1rem;
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+.profile-list {
+  margin-bottom: 1.5rem;
+}
+
+.profile-item {
+  margin-bottom: 0.85rem;
+  padding: 0.05rem 0 0.05rem 1rem;
+  border-left: 3px solid var(--global-border-color);
+}
+
+.profile-item:last-child {
+  margin-bottom: 0;
+}
+
+.research-summary {
+  margin-bottom: 1rem;
+  line-height: 1.8;
+}
+
+.research-area {
+  margin-bottom: 1rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 8px;
+  background: var(--global-code-background-color);
+}
+
+.research-area h3 {
+  margin-top: 0;
+  margin-bottom: 0.45rem;
+}
+
+.research-area p {
+  margin-bottom: 0.65rem;
+}
+
+.research-area ul {
+  margin: 0.4rem 0 0 1.2rem;
+}
+
+.research-area li {
+  margin-bottom: 0.55rem;
+}
+
+.research-area li:last-child {
+  margin-bottom: 0;
+}
+
+.publication-entry {
+  margin-bottom: 1.2rem;
+}
+
+.publication-entry:last-child {
+  margin-bottom: 0;
+}
+
+.publication-entry-title {
+  margin: 0 0 0.25rem;
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.publication-entry-authors,
+.publication-entry-meta {
+  margin-bottom: 0.2rem;
 }

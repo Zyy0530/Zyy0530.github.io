@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Homepage"
+title                    : "Ziyue Wang"
 title_separator          : "-"
-name                     : &name "Wesley Wang"
-description              : &description "PhD student researching blockchain security and AI-driven vulnerability detection"
+name                     : &name "Ziyue Wang"
+description              : &description "PhD student at the University of Sydney working on blockchain security, vulnerability detection, and AI agents for security analysis"
 url                      : https://zyy0530.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zyy0530/Zyy0530.github.io"
@@ -23,11 +23,11 @@ repository               : "zyy0530/Zyy0530.github.io"
 author:
   # Biographic information
   avatar           : "avatar.jpg"
-  name             : "Wesley Wang"
+  name             : "Ziyue Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming PhD @ University of Sydney | Blockchain Security | Vulnerability Detection | LLM for Security"
-  location         : "Nanjing, Jiangsu"
-  employer         : "Nanjing University"
+  bio              : "PhD Student @ University of Sydney | Blockchain Security | Vulnerability Detection | AI Agents for Security"
+  location         : "Sydney, Australia"
+  employer         : "University of Sydney"
   uri              : # URL
   email            : "ziyue0530@gmail.com" 
 
@@ -70,7 +70,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "zyy_0530"
+  twitter          : "Zyy050"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -134,7 +134,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter Zyy050
 facebook:
   username               :
   app_id                 :
