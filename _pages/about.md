@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div class="profile-lead">
-  Welcome to my homepage. I am Ziyue Wang (王子悦 in Chinese), a PhD student in Computer Science at the University of Sydney, and a student of <a href="https://lzhou1110.github.io/">Liyi Zhou</a>.
-</div>
+<p>Welcome to my homepage. I am Ziyue Wang (王子悦 in Chinese), a PhD student in Computer Science at the University of Sydney, and a student of <a href="https://lzhou1110.github.io/">Liyi Zhou</a>.</p>
 
 ## Education
 
@@ -35,7 +33,7 @@ redirect_from:
 </div>
 
 <div class="research-area">
-  <h3>AI Agents for Security Analysis</h3>
+  <h3>AI Agents for General Security Analysis</h3>
   <p>Beyond blockchain and Android applications, I am exploring how AI agents can support security analysis across a broader landscape. I am particularly interested in their use for program analysis, malware detection, and robotic or cyber-physical systems, where iterative reasoning and tool use can unlock new workflows for defenders and analysts.</p>
 </div>
 
