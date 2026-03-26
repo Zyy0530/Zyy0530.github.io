@@ -34,7 +34,7 @@ redirect_from:
 
 <div class="research-area">
   <h3>AI Agents for General Security Analysis</h3>
-  <p>Beyond blockchain and Android applications, I am exploring how AI agents can support security analysis across a broader landscape. I am particularly interested in their use for program analysis, malware detection, and robotic or cyber-physical systems, where iterative reasoning and tool use can unlock new workflows for defenders and analysts.</p>
+  <p>Beyond blockchain and Android applications, I am exploring how AI agents can support security analysis across a broader landscape. I am particularly interested in their use for program analysis, malware detection, and robotic or cyber-physical systems.</p>
 </div>
 
 ## Selected Publications
