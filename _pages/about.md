@@ -13,11 +13,11 @@ redirect_from:
 
 ## Education
 
-<div class="profile-list">
-  <div class="profile-item"><strong>2026.03 - Present</strong>, PhD Student in Computer Science, University of Sydney, Australia. Student of <a href="https://lzhou1110.github.io/">Liyi Zhou</a>.</div>
-  <div class="profile-item"><strong>2023.09 - 2026.03</strong>, Master's student in Software Engineering, Nanjing University, China. Student of <a href="https://software.nju.edu.cn/gjd/">Jidong Ge</a>.</div>
-  <div class="profile-item"><strong>2019.09 - 2023.06</strong>, Undergraduate student in Software Engineering, Nanjing University, China.</div>
-</div>
+<ul class="compact-points">
+  <li><strong>2026.03 - Present</strong>, PhD Student in Computer Science, University of Sydney, Australia. Student of <a href="https://lzhou1110.github.io/">Liyi Zhou</a>.</li>
+  <li><strong>2023.09 - 2026.03</strong>, Master's student in Software Engineering, Nanjing University, China. Student of <a href="https://software.nju.edu.cn/gjd/">Jidong Ge</a>.</li>
+  <li><strong>2019.09 - 2023.06</strong>, Undergraduate student in Software Engineering, Nanjing University, China.</li>
+</ul>
 
 ## Research Interests
 
@@ -41,49 +41,53 @@ redirect_from:
 
 ## Selected Publications
 
-<div class="profile-list">
-  <div class="profile-item publication-entry">
-    <div class="publication-entry-title">TxRay: Agentic Postmortem of Live Blockchain Attacks</div>
-    <div class="publication-entry-authors"><strong><u>Ziyue Wang</u></strong>, Jiangshan Yu, Kaihua Qin, Dawn Song, Arthur Gervais, Liyi Zhou</div>
-    <div class="publication-entry-meta">[arXiv 2026] [<a href="https://arxiv.org/abs/2602.01317">paper</a>]</div>
-  </div>
-
-  <div class="profile-item publication-entry">
-    <div class="publication-entry-title">Agentic Discovery and Validation of Android App Vulnerabilities</div>
-    <div class="publication-entry-authors"><strong><u>Ziyue Wang</u></strong>, Liyi Zhou</div>
-    <div class="publication-entry-meta">[arXiv preprint arXiv:2508.21579] [<a href="https://arxiv.org/abs/2508.21579">paper</a>]</div>
-  </div>
-
-  <div class="profile-item publication-entry">
-    <div class="publication-entry-title">Empirical Analysis of Smart Contract Factories on EVM-compatible Chains</div>
-    <div class="publication-entry-authors"><strong><u>Ziyue Wang</u></strong>, Zongwen Shen, Lei Chen, Wei Song, Jidong Ge, LiGuo Huang, Bin Luo</div>
-    <div class="publication-entry-meta">[ACM Transactions on Software Engineering and Methodology] [<a href="https://dl.acm.org/doi/10.1145/3787216">paper</a>]</div>
-  </div>
-</div>
+<ul class="compact-points compact-points--publications">
+  <li>
+    <div class="publication-entry">
+      <div class="publication-entry-title">TxRay: Agentic Postmortem of Live Blockchain Attacks</div>
+      <div class="publication-entry-authors"><strong><u>Ziyue Wang</u></strong>, Jiangshan Yu, Kaihua Qin, Dawn Song, Arthur Gervais, Liyi Zhou</div>
+      <div class="publication-entry-meta">[arXiv 2026] [<a href="https://arxiv.org/abs/2602.01317">paper</a>]</div>
+    </div>
+  </li>
+  <li>
+    <div class="publication-entry">
+      <div class="publication-entry-title">Agentic Discovery and Validation of Android App Vulnerabilities</div>
+      <div class="publication-entry-authors"><strong><u>Ziyue Wang</u></strong>, Liyi Zhou</div>
+      <div class="publication-entry-meta">[arXiv preprint arXiv:2508.21579] [<a href="https://arxiv.org/abs/2508.21579">paper</a>]</div>
+    </div>
+  </li>
+  <li>
+    <div class="publication-entry">
+      <div class="publication-entry-title">Empirical Analysis of Smart Contract Factories on EVM-compatible Chains</div>
+      <div class="publication-entry-authors"><strong><u>Ziyue Wang</u></strong>, Zongwen Shen, Lei Chen, Wei Song, Jidong Ge, LiGuo Huang, Bin Luo</div>
+      <div class="publication-entry-meta">[ACM Transactions on Software Engineering and Methodology] [<a href="https://dl.acm.org/doi/10.1145/3787216">paper</a>]</div>
+    </div>
+  </li>
+</ul>
 
 ## Experience
 
-<div class="profile-list">
-  <div class="profile-item"><strong>2025.04 - 2025.07</strong>, Web3 R&amp;D Engineer at <a href="https://www.bitslab.xyz/">BitsLab</a>. Worked on Web3 research and development.</div>
-  <div class="profile-item"><strong>2024.11 - 2025.04</strong>, Web3 Security Researcher at <a href="https://blocksec.com/">BlockSec</a>. Worked on Web3 security research.</div>
-  <div class="profile-item"><strong>2022.07 - 2022.10</strong>, Software Development Engineer at <a href="https://www.dingtalk.com/en">Alibaba</a>. Worked on software development.</div>
-</div>
+<ul class="compact-points">
+  <li><strong>2025.04 - 2025.07</strong>, Web3 R&amp;D Engineer at <a href="https://www.bitslab.xyz/">BitsLab</a>. Worked on Web3 research and development.</li>
+  <li><strong>2024.11 - 2025.04</strong>, Web3 Security Researcher at <a href="https://blocksec.com/">BlockSec</a>. Worked on Web3 security research.</li>
+  <li><strong>2022.07 - 2022.10</strong>, Software Development Engineer at <a href="https://www.dingtalk.com/en">Alibaba</a>. Worked on software development.</li>
+</ul>
 
 ## Blog and Media
 
-<div class="profile-list">
-  <div class="profile-item">TxRay Introduction [<a href="https://www.youtube.com/watch?v=76NsSd8Bczk">link</a>]</div>
-  <div class="profile-item">Clara Introduction [<a href="https://x.com/Zyy0530/status/2020065843988594757">link</a>]</div>
-  <div class="profile-item">A2 Introduction [<a href="https://www.securityweek.com/academics-build-ai-powered-android-vulnerability-discovery-and-validation-tool/">link</a>]</div>
-  <div class="profile-item">A2 Introduction [<a href="https://www.theregister.com/2025/09/04/boffins_build_automated_android_bug_hunting/">link</a>]</div>
-  <div class="profile-item">Postmortem of zkLend Exploit [<a href="https://blocksec.com/blog/zklend-exploit-post-mortem-unraveling-the-details-and-clarifying-misunderstandings-of-the-10m-flash-loan-attack">link</a>]</div>
-</div>
+<ul class="compact-points">
+  <li>TxRay Introduction [<a href="https://www.youtube.com/watch?v=76NsSd8Bczk">link</a>]</li>
+  <li>Clara Introduction [<a href="https://x.com/Zyy0530/status/2020065843988594757">link</a>]</li>
+  <li>A2 Introduction [<a href="https://www.securityweek.com/academics-build-ai-powered-android-vulnerability-discovery-and-validation-tool/">link</a>]</li>
+  <li>A2 Introduction [<a href="https://www.theregister.com/2025/09/04/boffins_build_automated_android_bug_hunting/">link</a>]</li>
+  <li>Postmortem of zkLend Exploit [<a href="https://blocksec.com/blog/zklend-exploit-post-mortem-unraveling-the-details-and-clarifying-misunderstandings-of-the-10m-flash-loan-attack">link</a>]</li>
+</ul>
 
 ## Honors & Awards
 
-<div class="profile-list">
-  <div class="profile-item"><strong>2026</strong>, Outstanding Graduate of Nanjing University (top 1%).</div>
-  <div class="profile-item"><strong>2024</strong>, Xiaomi Scholarship.</div>
-  <div class="profile-item"><strong>2023, 2024, 2026</strong>, Nanjing University First-class Scholarship (top 5%).</div>
-  <div class="profile-item"><strong>2022</strong>, Outstanding Undergraduate of Nanjing University (top 1%).</div>
-</div>
+<ul class="compact-points">
+  <li><strong>2026</strong>, Outstanding Graduate of Nanjing University (top 1%).</li>
+  <li><strong>2024</strong>, Xiaomi Scholarship.</li>
+  <li><strong>2023, 2024, 2026</strong>, Nanjing University First-class Scholarship (top 5%).</li>
+  <li><strong>2022</strong>, Outstanding Undergraduate of Nanjing University (top 1%).</li>
+</ul>
