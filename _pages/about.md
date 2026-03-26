@@ -20,7 +20,7 @@ redirect_from:
 ## Research Interests
 
 <div class="research-summary">
-  I am interested in how far emerging systems can push the automation of security research, especially work that still depends on careful manual validation. I stay open to new ideas, tools, and domains, and I enjoy learning by building. At the moment, my research centers on two closely connected directions:
+  I am interested in how far emerging systems can push the automation of security research, especially work that still depends on manual validation. I stay open to new ideas, tools, and domains, and I enjoy learning by building. At the moment, my research centers on two closely connected directions:
 </div>
 
 <div class="research-area">
