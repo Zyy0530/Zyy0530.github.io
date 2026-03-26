@@ -22,7 +22,7 @@ redirect_from:
 ## Research Interests
 
 <div class="research-summary">
-  I am interested in how far emerging systems can push the automation of security research, especially work that still depends on careful manual reasoning. I stay open to new ideas, tools, and domains, and I enjoy learning by building. At the moment, my research centers on two closely connected directions:
+  I am interested in how far emerging systems can push the automation of security research, especially work that still depends on careful manual validation. I stay open to new ideas, tools, and domains, and I enjoy learning by building. At the moment, my research centers on two closely connected directions:
 </div>
 
 <div class="research-area">
@@ -88,6 +88,6 @@ redirect_from:
 <ul class="compact-points">
   <li><strong>2026</strong>, Outstanding Graduate of Nanjing University (top 1%).</li>
   <li><strong>2024</strong>, Xiaomi Scholarship.</li>
-  <li><strong>2023, 2024, 2026</strong>, Nanjing University First-class Scholarship (top 5%).</li>
+  <li><strong>2024 ~ 2026</strong>, Nanjing University First-class Scholarship (top 5%).</li>
   <li><strong>2022</strong>, Outstanding Undergraduate of Nanjing University (top 1%).</li>
 </ul>

@@ -123,35 +123,35 @@ body {
   margin-bottom: 0;
 }
 
-.compact-points {
+.page__content ul.compact-points {
   margin: 0 0 1.1rem;
   padding: 0;
   list-style: none;
 }
 
-.compact-points li {
+.page__content ul.compact-points li {
   position: relative;
   margin-bottom: 0.55rem;
-  padding-left: 1rem;
+  padding-left: 1.15rem;
   line-height: 1.75;
 }
 
-.compact-points li:last-child {
+.page__content ul.compact-points li:last-child {
   margin-bottom: 0;
 }
 
-.compact-points li::before {
+.page__content ul.compact-points li::before {
   content: "";
   position: absolute;
   top: 0.72em;
-  left: 0;
+  left: 0.1rem;
   width: 0.34rem;
   height: 0.34rem;
   border-radius: 50%;
   background: var(--global-link-color);
 }
 
-.compact-points--publications li {
+.page__content ul.compact-points--publications li {
   margin-bottom: 0.8rem;
 }
 
