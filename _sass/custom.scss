@@ -61,9 +61,18 @@ body {
   margin-top: 2.4rem;
   padding-bottom: 0.45rem;
   border-bottom: 1px solid var(--global-border-color);
-  font-size: 1rem;
+  font-size: 0.92rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+}
+
+.page__content p,
+.page__content li {
+  font-size: 0.92rem;
+}
+
+.page__content h3 {
+  font-size: 0.95rem;
 }
 
 .profile-lead {
@@ -73,23 +82,24 @@ body {
   border-left: 4px solid var(--global-link-color);
   border-radius: 0 12px 12px 0;
   background: linear-gradient(180deg, rgba(82, 173, 200, 0.08), rgba(82, 173, 200, 0.03));
-  font-size: 0.98rem;
+  font-size: 0.94rem;
   line-height: 1.8;
 }
 
 .research-summary {
   margin-bottom: 0.85rem;
   line-height: 1.8;
+  font-size: 0.92rem;
 }
 
 .research-area {
-  margin-bottom: 0.85rem;
-  padding: 0.95rem 1rem;
+  margin-bottom: 1rem;
+  padding: 1rem 1.1rem;
   border: 1px solid var(--global-border-color);
   border-left: 4px solid var(--global-link-color);
-  border-radius: 0 12px 12px 0;
+  border-radius: 0 14px 14px 0;
   background: linear-gradient(180deg, rgba(82, 173, 200, 0.08), rgba(82, 173, 200, 0.02));
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.025);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.03);
 }
 
 .research-area h3 {
@@ -152,7 +162,7 @@ body {
 
 .publication-entry-title {
   margin: 0;
-  font-size: 1rem;
+  font-size: 0.94rem;
   font-weight: 700;
   line-height: 1.6;
 }
@@ -161,6 +171,7 @@ body {
 .publication-entry-meta {
   margin-bottom: 0;
   line-height: 1.7;
+  font-size: 0.92rem;
 }
 
 .publication-entry-meta {
