@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Ziyue Wang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Ziyue Wang"
 description              : &description "PhD student at the University of Sydney working on blockchain security, vulnerability detection, and AI agents for security analysis"

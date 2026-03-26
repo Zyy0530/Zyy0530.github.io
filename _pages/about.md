@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 <div class="profile-lead">
-  Welcome to my homepage. I am Ziyue Wang (王子悦 in Chinese), a PhD student in Computer Science at the University of Sydney, advised by <a href="https://lzhou1110.github.io/">Liyi Zhou</a>.
+  Welcome to my homepage. I am Ziyue Wang (王子悦 in Chinese), a PhD student in Computer Science at the University of Sydney, and a student of <a href="https://lzhou1110.github.io/">Liyi Zhou</a>.
 </div>
 
 ## Education
 
 <div class="profile-list">
-  <div class="profile-item"><strong>2026.03 - Present</strong>, PhD Student in Computer Science, University of Sydney, Australia. Supervisor: <a href="https://lzhou1110.github.io/">Liyi Zhou</a>.</div>
-  <div class="profile-item"><strong>2023.09 - 2026.03</strong>, Master's student in Software Engineering, Nanjing University, China.</div>
+  <div class="profile-item"><strong>2026.03 - Present</strong>, PhD Student in Computer Science, University of Sydney, Australia. Student of <a href="https://lzhou1110.github.io/">Liyi Zhou</a>.</div>
+  <div class="profile-item"><strong>2023.09 - 2026.03</strong>, Master's student in Software Engineering, Nanjing University, China. Student of <a href="https://software.nju.edu.cn/gjd/">Jidong Ge</a>.</div>
   <div class="profile-item"><strong>2019.09 - 2023.06</strong>, Undergraduate student in Software Engineering, Nanjing University, China.</div>
 </div>
 
@@ -36,35 +36,47 @@ redirect_from:
 
 <div class="research-area">
   <h3>AI Agents for Security Analysis</h3>
-  <p>Beyond blockchain and Android applications, I am exploring how AI agents can support security analysis across a broader landscape. I am particularly interested in their use for program analysis, malware understanding, and robotic or cyber-physical systems, where iterative reasoning and tool use can unlock new workflows for defenders and analysts.</p>
+  <p>Beyond blockchain and Android applications, I am exploring how AI agents can support security analysis across a broader landscape. I am particularly interested in their use for program analysis, malware detection, and robotic or cyber-physical systems, where iterative reasoning and tool use can unlock new workflows for defenders and analysts.</p>
 </div>
 
 ## Selected Publications
 
-<div class="publication-entry">
-  <div class="publication-entry-title">TxRay: Agentic Postmortem of Live Blockchain Attacks</div>
-  <div class="publication-entry-authors"><strong><u>Ziyue Wang</u></strong>, Jiangshan Yu, Kaihua Qin, Dawn Song, Arthur Gervais, Liyi Zhou</div>
-  <div class="publication-entry-meta">[arXiv 2026] [<a href="https://arxiv.org/abs/2602.01317">paper</a>]</div>
-</div>
+<div class="profile-list">
+  <div class="profile-item publication-entry">
+    <div class="publication-entry-title">TxRay: Agentic Postmortem of Live Blockchain Attacks</div>
+    <div class="publication-entry-authors"><strong><u>Ziyue Wang</u></strong>, Jiangshan Yu, Kaihua Qin, Dawn Song, Arthur Gervais, Liyi Zhou</div>
+    <div class="publication-entry-meta">[arXiv 2026] [<a href="https://arxiv.org/abs/2602.01317">paper</a>]</div>
+  </div>
 
-<div class="publication-entry">
-  <div class="publication-entry-title">Agentic Discovery and Validation of Android App Vulnerabilities</div>
-  <div class="publication-entry-authors"><strong><u>Ziyue Wang</u></strong>, Liyi Zhou</div>
-  <div class="publication-entry-meta">[arXiv preprint arXiv:2508.21579] [<a href="https://arxiv.org/abs/2508.21579">paper</a>]</div>
-</div>
+  <div class="profile-item publication-entry">
+    <div class="publication-entry-title">Agentic Discovery and Validation of Android App Vulnerabilities</div>
+    <div class="publication-entry-authors"><strong><u>Ziyue Wang</u></strong>, Liyi Zhou</div>
+    <div class="publication-entry-meta">[arXiv preprint arXiv:2508.21579] [<a href="https://arxiv.org/abs/2508.21579">paper</a>]</div>
+  </div>
 
-<div class="publication-entry">
-  <div class="publication-entry-title">Empirical Analysis of Smart Contract Factories on EVM-compatible Chains</div>
-  <div class="publication-entry-authors"><strong><u>Ziyue Wang</u></strong>, Zongwen Shen, Lei Chen, Wei Song, Jidong Ge, LiGuo Huang, Bin Luo</div>
-  <div class="publication-entry-meta">[ACM Transactions on Software Engineering and Methodology] [<a href="https://dl.acm.org/doi/10.1145/3787216">paper</a>]</div>
+  <div class="profile-item publication-entry">
+    <div class="publication-entry-title">Empirical Analysis of Smart Contract Factories on EVM-compatible Chains</div>
+    <div class="publication-entry-authors"><strong><u>Ziyue Wang</u></strong>, Zongwen Shen, Lei Chen, Wei Song, Jidong Ge, LiGuo Huang, Bin Luo</div>
+    <div class="publication-entry-meta">[ACM Transactions on Software Engineering and Methodology] [<a href="https://dl.acm.org/doi/10.1145/3787216">paper</a>]</div>
+  </div>
 </div>
 
 ## Experience
 
 <div class="profile-list">
-  <div class="profile-item"><strong>Jan. 2026 - Present</strong>, Research Assistant at the College of Computer Science, Zhejiang University, Hangzhou, China.</div>
-  <div class="profile-item"><strong>Jun. 2025 - Jan. 2026</strong>, Security Research Intern at Skyward Lab of Ant Group (Alipay), Hangzhou, China. Worked on LLM-driven Web3 bug hunting.</div>
-  <div class="profile-item"><strong>Jul. 2023 - Sep. 2023</strong>, Security Engineer at the Software Research Institute of China Unicom, Beijing, China. Worked on threat hunting and incident response.</div>
+  <div class="profile-item"><strong>2025.04 - 2025.07</strong>, Web3 R&amp;D Engineer at <a href="https://www.bitslab.xyz/">BitsLab</a>. Worked on Web3 research and development.</div>
+  <div class="profile-item"><strong>2024.11 - 2025.04</strong>, Web3 Security Researcher at <a href="https://blocksec.com/">BlockSec</a>. Worked on Web3 security research.</div>
+  <div class="profile-item"><strong>2022.07 - 2022.10</strong>, Software Development Engineer at <a href="https://www.dingtalk.com/en">Alibaba</a>. Worked on software development.</div>
+</div>
+
+## Blog and Media
+
+<div class="profile-list">
+  <div class="profile-item">TxRay Introduction [<a href="https://www.youtube.com/watch?v=76NsSd8Bczk">link</a>]</div>
+  <div class="profile-item">Clara Introduction [<a href="https://x.com/Zyy0530/status/2020065843988594757">link</a>]</div>
+  <div class="profile-item">A2 Introduction [<a href="https://www.securityweek.com/academics-build-ai-powered-android-vulnerability-discovery-and-validation-tool/">link</a>]</div>
+  <div class="profile-item">A2 Introduction [<a href="https://www.theregister.com/2025/09/04/boffins_build_automated_android_bug_hunting/">link</a>]</div>
+  <div class="profile-item">Postmortem of zkLend Exploit [<a href="https://blocksec.com/blog/zklend-exploit-post-mortem-unraveling-the-details-and-clarifying-misunderstandings-of-the-10m-flash-loan-attack">link</a>]</div>
 </div>
 
 ## Honors & Awards
