@@ -46,7 +46,7 @@ redirect_from:
     <div class="publication-entry">
       <div class="publication-entry-title">TxRay: Agentic Postmortem of Live Blockchain Attacks</div>
       <div class="publication-entry-authors"><strong><u>Ziyue Wang</u></strong>, Jiangshan Yu, Kaihua Qin, Dawn Song, Arthur Gervais, Liyi Zhou</div>
-      <div class="publication-entry-meta">[arXiv 2026] [<a href="https://arxiv.org/abs/2602.01317">paper</a>]</div>
+      <div class="publication-entry-meta">[arXiv preprint arXiv:2602.01317] [<a href="https://arxiv.org/abs/2602.01317">paper</a>]</div>
     </div>
   </li>
   <li>

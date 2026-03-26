@@ -175,11 +175,7 @@ body {
 }
 
 .publication-entry-meta {
-  color: var(--global-text-color-light);
-}
-
-.publication-entry-meta a {
-  color: var(--global-link-color);
+  color: var(--global-text-color);
 }
 
 @media (max-width: 768px) {
